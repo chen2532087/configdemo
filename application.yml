@@ -6,9 +6,9 @@
 spring: 
     profiles: dev
     application: 
-        name: micservice-config-dev
+        name: config-config-dev
 ---
 spring: 
     profiles: test
     application: 
-        name: micservice-config-test
+        name: config-config-test
