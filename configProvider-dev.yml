@@ -2,16 +2,14 @@
     profiles: 
         active: 
             - dev
-xuhao: 
-    age: 22
-    sex: female
+xuhao: 33
 ---
 spring: 
     profiles: dev
     application: 
-        name: config-provider-dev
+        name: configProvider-dev
 ---
 spring: 
     profiles: test
     application: 
-        name: config-provider-test
+        name: configProvider-test
