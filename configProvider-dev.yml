@@ -2,7 +2,7 @@
     profiles: 
         active: 
             - dev
-xuhao: 33
+from: niubi
 ---
 spring: 
     profiles: dev
